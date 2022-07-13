@@ -57,7 +57,11 @@
         background-color: #262626;
         border: none;
         color: white;
+        width: 100%;
     }
 
+    .clasecita button:hover {
+        background-color: #4c4c4c;
+    }
 
 }
